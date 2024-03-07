@@ -18,7 +18,8 @@ body{
 .cabecalho-imagem{
     width: 20%;
 }
-
-.lista-item{
-    display: inline-block;
+.cabecalho-lista{
+    display: flex;
 }
+
+
