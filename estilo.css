@@ -39,6 +39,10 @@ body{
     width: 35%;
 }
 
+.secao1-titulo{
+    padding: 24px 0;
+}
+
 .secao1-imagem{
     width: 40%;
 }
