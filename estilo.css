@@ -57,6 +57,7 @@ body{
 }
 
 .secao2-todos-estudantes{
-    display: flex;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
 }
 
