@@ -53,6 +53,10 @@ body{
     text-align: center;
     font-size: 30px;
     color: blue;
+    
+}
+
+.secao2-todos-estudantes{
     display: flex;
 }
 
