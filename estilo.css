@@ -53,5 +53,6 @@ body{
     text-align: center;
     font-size: 30px;
     color: blue;
+    display: flex;
 }
 
