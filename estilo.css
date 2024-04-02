@@ -53,9 +53,9 @@ body{
     text-align: center;
     font-size: 30px;
     color: blue;
+    padding: 20px 0;
     
 }
-
 .secao2-todos-estudantes{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
